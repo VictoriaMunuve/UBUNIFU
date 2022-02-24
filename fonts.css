@@ -1,0 +1,30 @@
+/* .fonts{
+    font-family: 'Redressed', cursive;
+    font-style: italic;
+} */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+.fonts h2{
+    font-family: 'Redressed', cursive;
+
+}
+
+.icons {
+    color: blue;
+}
+
+.links a{
+    color: red;
+    text-decoration: none;
+    padding: 30px;
+}
+
+.lists ul li{
+    list-style: lower-alpha;
+}
+.maxxwidth {
+    max-width: 500px;
+    margin: auto;
+    border: 20px black;
+}

@@ -1,0 +1,46 @@
+.div1{
+    /* border: 1px solid purple; */
+    height: 50vh;
+    width: 30%;
+    background-image: url(/images/pexels-lukas-296282.jpg);
+    background-size: cover;
+}
+.div2{
+   
+    height: 30vh;
+    width: 40%;
+    background-image: url(/images/pexels-pixabay-247851\ \(1\).jpg);
+    background-size: cover;
+
+}
+     .input {
+         border: 3px solid yellow;
+         border-style: double;}
+     .btn {
+         border: 4px solid red;
+         border-style: double;
+        }
+
+
+     .div3 {
+         border: 2px solid blueviolet;
+         height: 30vh;
+         width: 30%;
+         margin: 20px 0px 0px 20px;
+         padding: 20px 20px 20px 20px;
+         
+     }   
+     .div3 h5 {
+         text-align: center;
+         text-decoration: dotted;
+         text-transform: capitalize;
+     }
+     .div3 p {
+         text-transform: uppercase;
+     }
+     .div3
+     {
+        background-image: url(/images/pexels-pixabay-247851\ \(1\).jpg);
+        background-size: cover;
+        
+     }
