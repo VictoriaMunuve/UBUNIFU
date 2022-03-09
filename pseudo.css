@@ -1,0 +1,30 @@
+.pseudo a:link {
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+}
+/* .pseudo a:hover {
+    color: blue;
+    font-size: 40px; */
+}
+.pseudo a :active {
+    color: red;
+}
+
+.list,ul li {
+    list-style: none;
+    padding: 40px;
+     display: inline;
+}
+
+.list ,ul li::before {
+    content:"\2713";
+    color: red;
+
+}
+.opacity {
+    background-color: blue;
+    height:10vh;
+    width: 20%;
+    opacity: 0.2;
+}

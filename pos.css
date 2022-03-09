@@ -1,0 +1,40 @@
+/* .div1 { 
+    height:60vh;
+    width: 50%;
+    border: 2px solid forestgreen;
+    position: relative;
+   
+    overflow: auto;
+    /* top: 100px; 
+    /* left: 20px; */
+
+}
+.div2 {
+    height: 20vh;
+    width: 20%;
+    background-color: red;    /* position: absolute; */
+    margin-top: 10px;
+    /* right: 100px; */
+    /* bottom: 10px; */
+
+}
+.div3 {
+    height: 20vh;
+    width: 20%;
+    background-color: black;
+    /* position: absolute; */
+    margin-top: 10px;
+    position: sticky;
+    top: 40px;
+    /* right: 200px; */
+    /* bottom: 40px; */
+}
+/* .div4 {
+    height: 20vh;
+    width: 20%;
+    background-color: blue;
+    /* margin-top: 10px; */
+    /* position: fixed; */
+    /* position: absolute; */
+    /* left: 200px; */
+}  */
